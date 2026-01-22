@@ -1,9 +1,6 @@
-streamlit==1.31.0
-pandas==2.1.4
-numpy==1.26.3
-scipy==1.11.4
-plotly==5.18.0
-matplotlib==3.8.2
-seaborn==0.13.1
-
-Updated: Jan 21, 2026
+streamlit
+pandas
+numpy
+scipy
+plotly
+yfinance
