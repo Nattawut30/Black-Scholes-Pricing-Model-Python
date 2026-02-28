@@ -1,4 +1,4 @@
-# <p align="center"> Python: Pricing Model <p/>
+# <p align="center"> Python: Black-Scholes Implied Volatility <p/>
 <br>**Nattawut Boonnoon**<br/>
 - LinkedIn: www.linkedin.com/in/nattawut-bn
 - Email: nattawut.boonnoon@hotmail.com
@@ -13,7 +13,7 @@ This is my options pricing models analysis that combines educational clarity wit
 ![Price_sensitivity](Price_Sensitivity.png) <br>
 ![3D_surface](3D_surface.png)
 
-# <p align="center">What is Black-Scholes model? <p/>
+# <p align="center">What is Black-Scholes pricing model? <p/>
 The Black-Scholes, or Black-Scholes-Merton model is a mathematical model that describes the trends of a financial market, including derivative investment instruments. The formula and model are named after the economists *Fischer Black* and *Myron Scholes*. Occasionally, attribution is also awarded to *Robert C. Merton*, who was the first to write an academic paper on the topic.
 
 The model's fundamental objective is to hedge the option by purchasing and selling the underlying asset in a precise pattern to remove risk. This type of hedging is known as "constantly modified delta hedging" and forms the foundation of more complex hedging strategies utilized by investment firms and hedge funds.
